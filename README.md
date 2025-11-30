@@ -22,11 +22,11 @@ This project is a simple Python program that **generates a random number within 
 
 ## ▶️ How to Run
 1. Install Python 3.x
-2. Save the script as `random_properties.py`
+2. Save the script as `identying property of a number.py`
 3. Run the script:
 ```
 
-python random_properties.py
+python identying property of a number.py
 
 ```
 4. Enter the range when prompted.
