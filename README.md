@@ -26,7 +26,7 @@ This project is a simple Python program that **generates a random number within 
 3. Run the script:
 ```
 
-python identying property of a number.py
+python "identying property of a number.py"
 
 ```
 4. Enter the range when prompted.
